@@ -68,6 +68,8 @@ int main(void)
 			printf("Result: %d\n", a + b);
 		else if (choice == 2)
 			printf("Result: %d\n", a - b);
+		else if (choice == 3)
+			printf("Result: %d\n", a * b);
 		else
 			printf("Not implemented yet\n");
 	}

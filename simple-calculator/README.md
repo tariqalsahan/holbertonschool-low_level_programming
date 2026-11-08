@@ -22,7 +22,7 @@ Type the number of a menu option and press Enter.
 
 ## Numeric behavior
 
-Menu options are read as integers with scanf.
+Menu options and operands A and B are read as integers (int) with scanf. Results are integers.
 
 ## Known limitations
 

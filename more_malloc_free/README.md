@@ -9,3 +9,4 @@ using `malloc` and `free`.
 |------|-------------|
 | `main.h` | Header file with all function prototypes |
 | `0-malloc_checked.c` | Allocates memory using malloc, exits with status 98 on failure |
+| `1-string_nconcat.c` | Concatenates s1 and the first n bytes of s2 into new memory |
